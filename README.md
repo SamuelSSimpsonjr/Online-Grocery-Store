@@ -1,9 +1,8 @@
 # Assignment- Design and develop a simple e-commerce website using a No-Code/Low-Code platform and document 
-  the work using GitHub Markdown
   
- 
-  # Course Information
-  *Course Code:* EWA408510
+##Course Information
+
+. *Course Code:* EWA408510
 . * Course Name:* E-Commerce and Web Application
 . * Instructor:* Eric Maniraguha
 . * Assessment:* Individual Assignment I
@@ -13,7 +12,8 @@
 ## Student Information
 |Name                  |Registration Number|
 |---------------------|----------------------------|
-|Samuel Simpson   208882023
+|Samuel Simpson         208882023
+
 
 
 # Project Title
