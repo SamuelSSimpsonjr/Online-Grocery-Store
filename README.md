@@ -32,17 +32,15 @@
 
 The website includes the following features:
 
-User Registration
-User Login
-Homepage with welcome message
-Product page containing at least five grocery products
-About Us page
-Contact page with:
-Email
-Phone Number
-Contact Form
-Shopping Cart (Add-to-Cart functionality)
-Responsive design for desktop and mobile devices
+*Homepage with welcome message
+*Product page containing at least five grocery products
+*About Us page
+*Contact page with:
+*Email
+*Phone Number
+*Contact Form
+*Shopping Cart (Add-to-Cart functionality)
+*Responsive design for desktop and mobile devices
 
 ---
 
