@@ -1,28 +1,30 @@
-```markdown
-# 🛒 Grab 'N Go – Online Grocery Store
+# Assignment- Design and develop a simple e-commerce website using a No-Code/Low-Code platform and document 
+  the work using GitHub Markdown
+  
+ 
+  # Course Information
+  *Course Code:* EWA408510
+. * Course Name:* E-Commerce and Web Application
+. * Instructor:* Eric Maniraguha
+. * Assessment:* Individual Assignment I
+. * Institution:* University of Lay Adventists of Kigali (UNILAK)
+
 
 ## Student Information
+|Name                  |Registration Number|
+|---------------------|----------------------------|
+|Samuel Simpson   208882023
 
-- **Name:** Samuel Simpson
-- **Student ID:** 208882023
-- **Course:** E-Commerce and Web Application (EWA408510)
-- **Lecturer:** Eric Maniraguha
-- **Academic Year:** 2025–2026 Semester II
-
----
 
 # Project Title
 
-**Grab 'N Go – Online Grocery Store**
-
-Grab 'N Go is a simple e-commerce website developed using Wix. The website enables customers to browse grocery products, view prices and descriptions, add products to the shopping cart, and contact the store for inquiries.
+**Online Grocery Store**
 
 ---
 
 # Platform Used
 
-- **Platform:** Wix
-- **Website Type:** No-Code E-Commerce Website
+ **Platform:** Wix
 
 ---
 
@@ -30,15 +32,17 @@ Grab 'N Go is a simple e-commerce website developed using Wix. The website enabl
 
 The website includes the following features:
 
-- 🏠 Homepage with welcome message
-- 🛍️ Product page containing at least five grocery products
-- 📖 About Us page
-- 📞 Contact page with:
-  - Email
-  - Phone Number
-  - Contact Form
-- 🛒 Shopping Cart (Add-to-Cart functionality)
-- Responsive design for desktop and mobile devices
+User Registration
+User Login
+Homepage with welcome message
+Product page containing at least five grocery products
+About Us page
+Contact page with:
+Email
+Phone Number
+Contact Form
+Shopping Cart (Add-to-Cart functionality)
+Responsive design for desktop and mobile devices
 
 ---
 
@@ -146,13 +150,13 @@ These challenges were solved by exploring Wix tools, practicing website customiz
 
 Through this project I learned:
 
-- How No-Code platforms simplify web development.
-- Website planning and structure.
-- UI/UX design principles.
-- Product organization for e-commerce websites.
-- Website publishing.
-- Basic GitHub documentation using Markdown.
-- Importance of responsive web design.
+How No-Code platforms simplify web development.
+Website planning and structure.
+UI/UX design principles.
+Product organization for e-commerce websites.
+Website publishing.
+Basic GitHub documentation using Markdown.
+Importance of responsive web design.
 
 ---
 
@@ -160,23 +164,19 @@ Through this project I learned:
 
 **Website Link:**
 
-https://your-wix-website-link.com
-
+https://samuelsimpson1828.wixsite.com/my-site-5
 ---
 
 # GitHub Repository
 
 **Repository Link:**
 
-https://github.com/yourusername/grab-n-go
 
 ---
 
 # Repository Structure
 
-```
-
-Grab-N-Go/
+Online Grocery Store/
 │
 ├── README.md
 │
@@ -184,12 +184,3 @@ Grab-N-Go/
 ├── homepage.png
 ├── product-page.png
 └── contact-page.png
-
-```
-
----
-
-# Conclusion
-
-The Grab 'N Go Online Grocery Store demonstrates the use of a No-Code platform to create a functional e-commerce website. The project includes all required pages, shopping cart functionality, responsive design, and GitHub documentation in Markdown format. It showcases practical skills in e-commerce website development, user interface design, and online store management.
-```
