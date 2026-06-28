@@ -47,7 +47,7 @@ Responsive design for desktop and mobile devices
 # Website Pages
 
 ## 1. Homepage
-The homepage introduces Grab 'N Go and welcomes visitors to the online grocery store.
+The homepage introduces Online Grocery Store and welcomes visitors to the online grocery store.
 
 ### Features
 - Store logo
@@ -80,7 +80,7 @@ Example products include:
 
 ## 3. About Page
 
-The About page explains the purpose of Grab 'N Go.
+The About page explains the purpose of Online Grocery Store.
 
 ### Mission
 
@@ -151,7 +151,7 @@ https://github.com/SamuelSSimpsonjr/Online-Grocery-Store.git
 # Repository Structure
 
 Online Grocery Store/
-│
+
 ├── README.md
 │
 └── images/
