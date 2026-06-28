@@ -10,9 +10,9 @@
 
 
 ## Student Information
-|Name                  |Registration Number|
-|---------------------|----------------------------|
-|Samuel Simpson         208882023
+|Name                 |Registration Number|
+|---------------------|-------------------|
+|Samuel Simpson                208882023
 
 
 
