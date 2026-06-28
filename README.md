@@ -2,11 +2,15 @@
   
 # Course Information
 
-. *Course Code:* EWA408510
-. * Course Name:* E-Commerce and Web Application
-. * Instructor:* Eric Maniraguha
-. * Assessment:* Individual Assignment I
-. * Institution:* University of Lay Adventists of Kigali (UNILAK)
+.*Course Code:* EWA408510
+
+.*Course Name:* E-Commerce and Web Application
+
+. *Instructor:* Eric Maniraguha
+
+. *Assessment:* Individual Assignment I
+
+. *Institution:* University of Lay Adventists of Kigali (UNILAK)
 
 
 ## Student Information
