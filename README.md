@@ -108,28 +108,6 @@ The shopping cart allows customers to:
 - Update quantities
 - Simulate checkout
 
----
-
-# Screenshots
-
-## Homepage
-
-![Homepage](images/homepage.png)
-
----
-
-## Product Page
-
-![Products](images/product-page.png)
-
----
-
-## Contact Page
-
-![Contact](images/contact-page.png)
-
----
-
 # Challenges Faced
 
 During the development of this project, I encountered several challenges including:
@@ -147,7 +125,6 @@ These challenges were solved by exploring Wix tools, practicing website customiz
 # Lessons Learned
 
 Through this project I learned:
-
 How No-Code platforms simplify web development.
 Website planning and structure.
 UI/UX design principles.
@@ -170,8 +147,6 @@ https://samuelsimpson1828.wixsite.com/my-site-5
 **Repository Link:**
 
 https://github.com/SamuelSSimpsonjr/Online-Grocery-Store.git
-
----
 
 # Repository Structure
 
